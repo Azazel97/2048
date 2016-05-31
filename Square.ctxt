@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Square(int)
+comment1.params=
+comment1.target=int\ getSquare()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=x
+comment3.target=void\ setSquare(int)
+comment4.params=n
+comment4.target=boolean\ checkSqrt(int)
+numComments=5

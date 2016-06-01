@@ -29,7 +29,6 @@ comment7.params=e
 comment7.target=void\ keyTyped(java.awt.event.KeyEvent)
 comment8.params=e
 comment8.target=void\ keyPressed(java.awt.event.KeyEvent)
-comment8.text=Handle\ the\ key-pressed\ event\ from\ the\ text\ field.
 comment9.params=p
 comment9.target=Play2048(double)
 numComments=16
